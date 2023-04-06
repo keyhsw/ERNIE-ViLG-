@@ -1,3 +1,5 @@
 paddlepaddle
 paddlehub
 requests
+gradio
+numpy
