@@ -3,6 +3,7 @@ import gradio as gr
 import paddlehub as hub
 
 
+
 model = hub.Module(name='ernie_vilg')
 language_translation_model = hub.Module(name='baidu_translate')
 language_recognition_model = hub.Module(name='baidu_language_recognition')
